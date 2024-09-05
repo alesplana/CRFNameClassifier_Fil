@@ -1,4 +1,3 @@
 .DS_Store
 git_exclude/
-model/trained_crf_model.pkl
 data/clean_x.csv
